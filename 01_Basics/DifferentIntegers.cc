@@ -6,7 +6,7 @@ int main()
     std::uint8_t i1 = 1;
     std::uint16_t j1 = 1;
     std::uint32_t k1 = 1;
-    std::uint64_t l1 = 1;
+    std::uint64_t l1 = 100;
 
     std::int8_t i2 = 1;
     std::int16_t j2 = 1;
